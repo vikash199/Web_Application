@@ -1,0 +1,56 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family: "Cambria Math";
+}
+.header .header-logo{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+.container1{
+	background-image: linear-gradient(#FFFFFF,#F0E68C);
+	padding-bottom:8px;
+}
+.container .row .col-md-4 .body-img1{
+	width: 100%;
+}
+.container1 .col-md-8 .col-md-12 img{
+	width: 100%;
+}
+.container1 .section-2 p{
+	font-size: 13px;
+}
+.container1 .section-3 img{
+	width: 100%;
+}
+hr{
+	border:1px solid #DC143C;
+	background: #DC143C;
+}
+.container1 .section-4 h6{
+	text-align: center;
+	margin-bottom: 30px;
+}
+.container1 .section-4 p{
+	display: block;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	font-size: 14px
+}
+.container1 .section-4{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.section-4 p span{
+	border:1px solid #DC143C;
+	background: #DC143C;
+	margin: 5px 5px;
+}
+.footer{
+	background: #DC143C;
+	color: white;
+	padding: 20px 0px 50px 0;
+}
